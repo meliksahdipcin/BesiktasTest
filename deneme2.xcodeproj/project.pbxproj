@@ -7,14 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1810A6E022E0DE43006CA5DC /* besiktas.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1810A6DF22E0DE43006CA5DC /* besiktas.jpeg */; };
+		18261101231176440018EA47 /* nkoudou.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 18261100231176440018EA47 /* nkoudou.jpg */; };
 		1897C6F422DF02200038437F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1897C6F322DF02200038437F /* AppDelegate.swift */; };
 		1897C6F622DF02200038437F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1897C6F522DF02200038437F /* ViewController.swift */; };
 		1897C6F922DF02200038437F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1897C6F722DF02200038437F /* Main.storyboard */; };
 		1897C6FB22DF02220038437F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1897C6FA22DF02220038437F /* Assets.xcassets */; };
 		1897C6FE22DF02220038437F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1897C6FC22DF02220038437F /* LaunchScreen.storyboard */; };
+		1897C70622DF041B0038437F /* burak.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1897C70522DF041B0038437F /* burak.jpeg */; };
+		1897C70822DF04210038437F /* karius.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1897C70722DF04210038437F /* karius.jpeg */; };
+		1897C70A22DF042D0038437F /* vida.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1897C70922DF042D0038437F /* vida.jpeg */; };
+		1897C70C22DF04340038437F /* ljajic.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1897C70B22DF04340038437F /* ljajic.jpeg */; };
+		18CA03C72324DECE00B14E32 /* elneny.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 18CA03C62324DECE00B14E32 /* elneny.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1810A6DF22E0DE43006CA5DC /* besiktas.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = besiktas.jpeg; sourceTree = "<group>"; };
+		18261100231176440018EA47 /* nkoudou.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nkoudou.jpg; sourceTree = "<group>"; };
 		1897C6F022DF02200038437F /* deneme2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = deneme2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1897C6F322DF02200038437F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1897C6F522DF02200038437F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +31,11 @@
 		1897C6FA22DF02220038437F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1897C6FD22DF02220038437F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1897C6FF22DF02220038437F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1897C70522DF041B0038437F /* burak.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = burak.jpeg; sourceTree = "<group>"; };
+		1897C70722DF04210038437F /* karius.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = karius.jpeg; sourceTree = "<group>"; };
+		1897C70922DF042D0038437F /* vida.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = vida.jpeg; sourceTree = "<group>"; };
+		1897C70B22DF04340038437F /* ljajic.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ljajic.jpeg; sourceTree = "<group>"; };
+		18CA03C62324DECE00B14E32 /* elneny.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = elneny.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +68,13 @@
 		1897C6F222DF02200038437F /* deneme2 */ = {
 			isa = PBXGroup;
 			children = (
+				18CA03C62324DECE00B14E32 /* elneny.jpeg */,
+				18261100231176440018EA47 /* nkoudou.jpg */,
+				1810A6DF22E0DE43006CA5DC /* besiktas.jpeg */,
+				1897C70B22DF04340038437F /* ljajic.jpeg */,
+				1897C70922DF042D0038437F /* vida.jpeg */,
+				1897C70722DF04210038437F /* karius.jpeg */,
+				1897C70522DF041B0038437F /* burak.jpeg */,
 				1897C6F322DF02200038437F /* AppDelegate.swift */,
 				1897C6F522DF02200038437F /* ViewController.swift */,
 				1897C6F722DF02200038437F /* Main.storyboard */,
@@ -122,9 +143,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18261101231176440018EA47 /* nkoudou.jpg in Resources */,
+				18CA03C72324DECE00B14E32 /* elneny.jpeg in Resources */,
 				1897C6FE22DF02220038437F /* LaunchScreen.storyboard in Resources */,
+				1897C70A22DF042D0038437F /* vida.jpeg in Resources */,
 				1897C6FB22DF02220038437F /* Assets.xcassets in Resources */,
+				1897C70822DF04210038437F /* karius.jpeg in Resources */,
 				1897C6F922DF02200038437F /* Main.storyboard in Resources */,
+				1897C70C22DF04340038437F /* ljajic.jpeg in Resources */,
+				1897C70622DF041B0038437F /* burak.jpeg in Resources */,
+				1810A6E022E0DE43006CA5DC /* besiktas.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
